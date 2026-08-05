@@ -69,12 +69,7 @@ Frontend Developer with 3.5+ years building production React.js and Next.js appl
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhMR18&show_icons=true&theme=default" alt="ShaikhMR18's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhMR18&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
