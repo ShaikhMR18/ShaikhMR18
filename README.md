@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Frontend Developer with 3.5+ years building production React.js and Next.js applications across healthcare, industrial, and recruitment platforms. Led frontend delivery on 3 enterprise products from design handoff to production, including a role-based collaboration platform and a data-visualization tool for an Aditya Birla Group client.
+Frontend Developer with 4 years building production React.js and Next.js applications across healthcare, industrial, and recruitment platforms. Led frontend delivery on 3 enterprise products from design handoff to production, including a role-based collaboration platform and a data-visualization tool for an Aditya Birla Group client.
 
 - 💻 Strong in **TypeScript, Redux Toolkit, Context API**, and component architecture
 - 🏢 Currently **Software Engineer, Frontend** at **Intechfy Solutions Pvt. Ltd.** (Bangalore, Remote)
